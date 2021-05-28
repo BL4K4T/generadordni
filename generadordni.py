@@ -7,7 +7,6 @@ import random
 import string
 
 
-
 #Generador del número de DNI
 
 def randNum(num):
